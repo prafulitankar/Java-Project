@@ -1,0 +1,2 @@
+kubectl get all : List all the resources
+kubectl get rs --watch : Watch real time event of RS
